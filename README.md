@@ -4,4 +4,4 @@ Assignments of the Course : Machine Learning CS60050
 Infinity \infty
 
 
-$\sqrt{k}$
+$$\sqrt{k}$$
